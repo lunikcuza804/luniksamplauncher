@@ -1,2 +1,2 @@
-# luniksamplauncher
-Launcher for SAMP Project | Lunik SAMP
+<h1>Lunik SAMP Launcher</h1>
+<h1>Лаунчер для нашего проекта SAMP. Он в несколько раз удобнее и проще в использовании.</h1>
