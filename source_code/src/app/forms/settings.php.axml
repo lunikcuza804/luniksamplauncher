@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="settings">
+    
+  <method name="doButtonAltClick">
+      <loadForm form="MainForm" form-type="form" savePosition="1" savePosition-type="" saveSize="" saveSize-type=""/>
+    </method>
+  </class>
+</root>

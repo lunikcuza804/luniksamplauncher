@@ -1,0 +1,15 @@
+{
+  "props": [],
+  "components": {
+    "dirChooser": {
+      "type": "script\\DirectoryChooserScript",
+      "x": 112,
+      "y": 64,
+      "props": {
+        "title": "выберите папку с игрой",
+        "inputNode": "game",
+        "actionNode": "game"
+      }
+    }
+  }
+}
