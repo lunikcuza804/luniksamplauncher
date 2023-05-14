@@ -1,5 +1,0 @@
-[18:59:53]	[starter] Run
-[18:59:53]	[starter] attempt to start duplicate [updater]
-[18:59:53]	[starter] excellent. were able to create the file. Just run the program
-[18:59:53]	[starter] Run [open::launcher]
-[18:59:53]	[starter] finish the starter
